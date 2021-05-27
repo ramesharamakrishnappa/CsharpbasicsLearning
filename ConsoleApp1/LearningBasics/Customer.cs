@@ -12,7 +12,7 @@ namespace ConsoleApplication2.LearningBasics
         {
             Bank bank = new Bank();
             bank.customerName = "ramesha";
-            bank.Deposit(100000);
+            bank.Deposit(150000);
             bank.WithdrawAmmount(6000);
             bank.WithdrawAmmount(44000);
             bank.WithdrawAmmount(40000);
