@@ -16,7 +16,7 @@ namespace ConsoleApp1.LearningBasics
             arr[4] = 1;
             arr[5] = 1;
             arr[6] = 0;
-            arr[7] = 0;
+            arr[7] = 1;
             arr[8] = 0;
             arr[9] = 1;
             int countOne = 0;
